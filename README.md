@@ -1,14 +1,15 @@
 # Example Repository
-This is an example GitHub repository. The main function of the repository is storing all your codes and scripts for your game project. When making changes on files, it is recommended that you use the GitHub Desktop application, as the process is much easier. 
+This is an example GitHub repository. The main function of the repository is storing all your codes and scripts. When making changes on files, it is recommended that you use the GitHub Desktop application, as the process is much easier. 
 
-One repository can have many versions (branches), but the master version (branch) is the main version. As mentioned in the presentation, commonly, no direct change should be made to the master branch. 
+One repository can have many versions (branches), but the master version (branch) is the main one. As mentioned in the presentation, commonly, no direct change should be made to the master branch. 
 
-The repository also includes other functions, such as issues and projects, which we will introduce and use as well for your project. 
+The repository also includes other functions, such as issues and projects, which we will introduce and use as well in the future.
 
 # Branches
 There are two branches currently in this repository - the "master" branch and the "branch1" branch. At the moment, the files in both branches are the same. 
-You can create a branch using GitHub Desktop. Follow the instructions given on the presentation and demonstration of the teacher to try creating and publishing your branch.
-Normally, branches are created to address individual issues or implement features of your project. We'll talk more about branches in future lessons.
+You can create a branch using GitHub Desktop. Follow the instructions given on the presentation or demonstration of the teacher to try creating and publishing your branch.
+Normally, branches are created to address individual issues or implement features to your program. 
+We'll talk more about branches in future lessons.
 
 # Your Task
 Your tasks for this lesson are:
